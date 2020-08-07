@@ -5,11 +5,11 @@ Python -m venv venv
 
 Download Repository
 
-## create .env file add following line:
-  $ export CONSUMER_KEY=""
-  $ export CONSUMER_SECRET=""
-  $ export ACCESS_TOKEN=""
-  $ export ACCESS_TOKEN_SECRET=""
+## create .env file add following line:\n
+  $ export CONSUMER_KEY="" \n
+  $ export CONSUMER_SECRET="" \n
+  $ export ACCESS_TOKEN="" \n
+  $ export ACCESS_TOKEN_SECRET="" \n
 
 ## Install Requirement.txt file using following command:
 pip install -r requirement.txt
