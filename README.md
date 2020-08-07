@@ -8,4 +8,4 @@ Download Repository
 ## Install Requirement.txt file using following command:
 pip install -r requirement.txt
 
-# Run like_tweet.py file 
+# Run like-tweet.py file 
