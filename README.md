@@ -1,11 +1,11 @@
 # twitter-like-bot
 
-##Create Virtual envirnoment
+## Create Virtual envirnoment using following command :
 Python -m venv venv
 
-Download Repository and add all the file into virtual env folder
+Download Repository
 
-##Install Requirement.txt file using follwoing command:
+## Install Requirement.txt file using following command:
 pip install -r requirement.txt
 
-#Run like_tweet.py file 
+# Run like_tweet.py file 
