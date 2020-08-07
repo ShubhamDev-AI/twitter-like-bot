@@ -7,9 +7,9 @@ Download Repository
 
 ## create .env file add following line:
   $ export CONSUMER_KEY="" </br>
-  $ export CONSUMER_SECRET="" 
-  $ export ACCESS_TOKEN=""
-  $ export ACCESS_TOKEN_SECRET=""
+  $ export CONSUMER_SECRET=""   </br>
+  $ export ACCESS_TOKEN=""  </br>
+  $ export ACCESS_TOKEN_SECRET="" </br>
 
 ## Install Requirement.txt file using following command:
 pip install -r requirement.txt
